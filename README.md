@@ -21,7 +21,7 @@ Voraussetzung: GitHub-Account mit `lou@decima.lu` + Organisation `decima-data` e
 6. **Warten & prüfen:** DNS braucht Minuten bis Stunden. Danach ist die Seite unter https://decima.lu erreichbar.
 
 ## Später ändern
-
+ 
 `index.html` bearbeiten → pushen → Seite aktualisiert sich automatisch in ~1 Minute.
 
 Offene Platzhalter:
